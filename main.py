@@ -1,4 +1,3 @@
-from model.bankaccount import BankAccount
 from model.customer import Customer
 from model.savingsaccount import SavingsAccount
 from model.creditcardaccount import CreditCardAccount
